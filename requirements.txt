@@ -1,0 +1,7 @@
+pyTelegramBotApi
+requests
+fake_useragent
+bs4
+pydantic
+pydantic[dotenv]
+pymorphy2
